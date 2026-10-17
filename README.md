@@ -4,16 +4,23 @@ A practical playbook for evaluating whether an unfamiliar GitHub repository is r
 
 > No review can guarantee that a repository is completely safe. This project supports a documented, risk-based decision.
 
-## Start here
+## Start here — available guides
 
 1. Use the [inspection checklist](CHECKLIST.md).
-2. Review [common red flags](RED_FLAGS.md).
-3. Inspect [dependencies and supply-chain risk](DEPENDENCIES.md).
-4. Audit [GitHub Actions workflows](GITHUB_ACTIONS.md).
-5. Review [Docker and container risks](DOCKER_SECURITY.md).
-6. Use the commands in [TOOLS.md].
-7. Record findings with the [assessment template](ASSESSMENT_TEMPLATE.md).
-8. See the worked [Obsidian repository assessment](EXAMPLES/obsidian-starter-templates.md).
+2. Review [common red flags and safe investigation methods](RED_FLAGS.md).
+3. Track planned work in the [development roadmap](ROADMAP.md).
+4. See the [learning log](LEARNING_LOG.md) for project progress.
+
+## Planned documentation (not yet published)
+
+These Phase 1 resources are **not available yet**; follow [ROADMAP.md](ROADMAP.md) for progress:
+
+- `DEPENDENCIES.md` — dependency and supply-chain review
+- `GITHUB_ACTIONS.md` — workflow security
+- `DOCKER_SECURITY.md` — container review
+- `TOOLS.md` — inspection commands
+- `ASSESSMENT_TEMPLATE.md` — reusable assessment report
+- `EXAMPLES/obsidian-starter-templates.md` — worked example
 
 ## Understand the risk levels
 
