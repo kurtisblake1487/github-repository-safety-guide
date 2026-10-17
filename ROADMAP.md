@@ -36,7 +36,7 @@ Add JSON output to repository scanner
 - [x] Create the repository.
 - [x] Add the main README.
 - [x] Add the repository inspection checklist.
-- [ ] Add `RED_FLAGS.md` with suspicious behaviors and code patterns.
+- [x] Add `RED_FLAGS.md` with suspicious behaviors and code patterns. (Completed on feature branch; pending PR review and merge.)
 - [ ] Add `DEPENDENCIES.md` covering package and supply-chain risks.
 - [ ] Add `GITHUB_ACTIONS.md` covering workflow security.
 - [ ] Add `DOCKER_SECURITY.md` covering container review.
